@@ -1,4 +1,4 @@
-#!/Users/martintosca/Desktop/apps/tarkov-rag/venv/bin/python3
+#!/Users/martintosca/Desktop/apps/tarkov-rag/venv/bin/python3.13
 # -*- coding: utf-8 -*-
 import re
 import sys
